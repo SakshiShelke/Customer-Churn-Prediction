@@ -170,8 +170,6 @@ pip install -r requirements.txt
 * **Sakshi Shelke**
 * **Khush Aghera**
 * **Yash Kumar**
-* **Darshan Chhatbar**
-* **Om Pandey**
 
 Built using **Python**, **Streamlit**, and a lot of ☕.
 
