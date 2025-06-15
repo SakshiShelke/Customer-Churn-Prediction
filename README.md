@@ -176,3 +176,27 @@ pip install -r requirements.txt
 Built using **Python**, **Streamlit**, and a lot of ☕.
 
 ---
+---
+
+## 📊 Screenshots(Plots)
+![image](https://github.com/user-attachments/assets/55b539ea-1ca8-434c-b836-1657dae83737)
+![image](https://github.com/user-attachments/assets/0d52f689-55dc-47c6-ad1a-5a19e704d6a8)
+![image](https://github.com/user-attachments/assets/53d91bfc-d580-466e-ade4-de01b35da39d)
+![image](https://github.com/user-attachments/assets/4cc975d9-144a-4721-a395-b9929d01e924)
+![image](https://github.com/user-attachments/assets/fec3faeb-08f0-44fd-ada3-9900890a90db)
+![image](https://github.com/user-attachments/assets/05472148-49ad-40e1-8180-4bfb31101a2d)
+![image](https://github.com/user-attachments/assets/a071e752-b1f5-45ee-b4c2-860b96adec5c)
+![image](https://github.com/user-attachments/assets/a1ca367e-6cc1-40c1-9ed8-3e6873e1847a)
+![image](https://github.com/user-attachments/assets/ff2e3960-2de2-440e-b704-9639ab214fef)
+![image](https://github.com/user-attachments/assets/1fd27375-3491-424a-b602-032965123570)
+![image](https://github.com/user-attachments/assets/ce80d3d7-30b8-4de9-b82d-3a19a8eb0ee8)
+![image](https://github.com/user-attachments/assets/1e4785f9-52ab-40d2-aa5b-c461c45be7aa)
+
+---
+
+## 🖼️ Screenshots(Real Time Prediction)
+![image](https://github.com/user-attachments/assets/6b5c31b6-b3f0-425c-bbe9-95ec299c770b)
+![image](https://github.com/user-attachments/assets/002ed87a-f8c1-4f5c-9e22-4071410a9f51)
+![image](https://github.com/user-attachments/assets/62d936d6-f882-4e66-a2a0-d3f5dd46a8f4)
+
+---
