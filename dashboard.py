@@ -143,9 +143,9 @@ def train_model(df):
     auc_score = roc_auc_score(y, y_pred_proba)
     apply_custom_theme(theme_mode)
     st.markdown(
-            f'<p style="color:#ffffff; font-size:18px;padding:12px;background-color:#262730;border-radius:10px;">✅ Training AUC-ROC: {auc_score:.4f}</p>',
-            unsafe_allow_html=True
-        )
+        f'<p style="color:#ffffff; font-size:18px;padding:12px;background-color:#173928;border-radius:10px;">✅ Training AUC-ROC: {auc_score:.4f}</p>',
+        unsafe_allow_html=True
+    )
     return clf
 
 def plot_shap_summary(model, X_train, theme_mode):
@@ -260,10 +260,11 @@ if test_file is not None:
 
         df_predictions = df_clean[['customerID', 'Probability', 'churned', 'Retain', 'cost', 'contract_raw']].copy()
         df_predictions.rename(columns={'contract_raw': 'contract'}, inplace=True)
+
         st.markdown(
-                f'<p style="color:#ffffff; font-size:18px;padding:12px;background-color:#262730;border-radius:10px;">✅ Processed {len(df_clean)} records. Model prediction completed.</p>',
-                unsafe_allow_html=True
-            )
+            f'<p style="color:#ffffff; font-size:18px;padding:12px;background-color:#173928;border-radius:10px;">✅ Processed {len(df_clean)} records. Model prediction completed.</p>',
+            unsafe_allow_html=True
+        )
 
         st.subheader("Top 10 High-Risk Customers")
         top_10 = df_predictions.sort_values('Probability', ascending=False).head(10)
